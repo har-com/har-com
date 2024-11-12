@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @har-com
+- 👀 I’m interested in bulding no coode projects.
+- 🌱 I’m currently learning bolt.new tool.
+- 💞️ I’m looking to collaborate on building SAAS products.
+- 😄 Pronouns: harman 
